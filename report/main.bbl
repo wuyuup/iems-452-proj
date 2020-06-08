@@ -1,0 +1,14 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{}\fi
+
+\bibitem[{Hagberg et~al.(2008)Hagberg, Swart and
+  S~Chult}]{hagberg2008exploring}
+\text{Hagberg, A.}, \text{Swart, P.} and \text{S~Chult, D.} (2008).
+\newblock Exploring network structure, dynamics, and function using networkx.
+\newblock Tech. rep., Los Alamos National Lab.(LANL), Los Alamos, NM (United
+  States).
+
+\end{thebibliography}
