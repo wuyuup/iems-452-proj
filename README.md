@@ -10,5 +10,5 @@ python code/optimal.py
 To run the algorithm to obtain approximate solutions, run:
 
 ``` python
-python code/matching.py --niter 10000 --logfile algo10k.log --seed 42
+python code/matching.py --niter 10000 --logfile algo10k.log
 ```
