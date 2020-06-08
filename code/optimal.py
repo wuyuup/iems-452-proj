@@ -66,11 +66,11 @@ def main():
 
         # find optimal mathcing to compare 
         # rule out two files: 
-        if file == 'data/bayer04.mtx(pass)':
+        if file == 'data/bayer04.mtx(pass)':  # we pass this file
             opt = 10238
-        elif file == 'data/mark3jac020sc.mtx(pass)':
+        elif file == 'data/mark3jac020sc.mtx(pass)':  # pass the file
             opt = 4554
-        else:
+        else:  # find optimal matching for ALL 21 graphs
             # construct graph from adj matrix
             g = networkx.convert_matrix.from_numpy_matrix(a.todense())
             # calculate max matching (weight default to be 1)
