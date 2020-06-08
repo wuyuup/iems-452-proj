@@ -4,7 +4,7 @@ This is the course project for IEMS-452.
 
 To obtain optimal matching via NetworkX, run:
 ``` python
-optimal.py
+python code/optimal.py
 ```
 
 To run the algorithm to obtain approximate solutions, run:
