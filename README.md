@@ -1,6 +1,6 @@
 # IEMS-452 Matching Project
 
-This is the course project for IEMS-452. 
+This is the course project for IEMS-452. Author: Zuyue Fu
 
 To obtain optimal matching via NetworkX, run:
 ``` python
