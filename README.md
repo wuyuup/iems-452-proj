@@ -12,3 +12,5 @@ To run the algorithm to obtain approximate solutions, run:
 ``` python
 python code/matching.py --niter 10000 --logfile algo10k.log
 ```
+
+Report is available at report/main.pdf. 
